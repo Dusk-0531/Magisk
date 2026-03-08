@@ -3,6 +3,7 @@
 - [Installation Instructions](install.md)
 - [Frequently Asked Questions](faq.md)
 - [Magisk Changelog](changes.md)
+- [Magisk 原理与功耗说明（中文）](zh_CN.md)
 
 The following sections are for developers
 
